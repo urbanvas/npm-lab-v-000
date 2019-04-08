@@ -1,0 +1,25 @@
+{
+  "name": "react-rails",
+  "version": "1.0.0",
+  "description": "\"learning a lot\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanvas/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urbanvas/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/urbanvas/npm-lab-v-000#readme"
+}
